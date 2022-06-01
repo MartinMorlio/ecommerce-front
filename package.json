@@ -1,0 +1,19 @@
+{
+  "name": "ecommerce-front",
+  "version": "1.0.0",
+  "description": "ecommer of indum",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartinMorlio/ecommerce-front.git"
+  },
+  "author": "Martin Morlio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MartinMorlio/ecommerce-front/issues"
+  },
+  "homepage": "https://github.com/MartinMorlio/ecommerce-front#readme"
+}
